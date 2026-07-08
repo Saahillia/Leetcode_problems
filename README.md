@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Saahillia/Leetcode_problems/tree/master/3948-lexicographically-maximum-mex-array) |
+## Math
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Saahillia/Leetcode_problems/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Saahillia/Leetcode_problems/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Saahillia/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
