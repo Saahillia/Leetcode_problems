@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Saahillia/Leetcode_problems/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Saahillia/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
