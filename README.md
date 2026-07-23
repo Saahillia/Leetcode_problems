@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saahillia/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saahillia/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Saahillia/Leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Saahillia/Leetcode_problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Greedy
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saahillia/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saahillia/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
