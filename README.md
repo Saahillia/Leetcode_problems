@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saahillia/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saahillia/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Saahillia/Leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Saahillia/Leetcode_problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Greedy
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Saahillia/Leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Saahillia/Leetcode_problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Queue
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saahillia/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
