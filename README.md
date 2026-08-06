@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/Saahillia/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [2427-number-of-common-factors](https://github.com/Saahillia/Leetcode_problems/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Saahillia/Leetcode_problems/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Saahillia/Leetcode_problems/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
