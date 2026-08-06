@@ -56,18 +56,22 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Saahillia/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Saahillia/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Saahillia/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Saahillia/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Two Pointers
 |  |
