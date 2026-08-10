@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saahillia/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Saahillia/Leetcode_problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Saahillia/Leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Saahillia/Leetcode_problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Greedy
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Saahillia/Leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Saahillia/Leetcode_problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Queue
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
