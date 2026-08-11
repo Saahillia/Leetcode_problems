@@ -103,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Saahillia/Leetcode_problems/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Saahillia/Leetcode_problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
