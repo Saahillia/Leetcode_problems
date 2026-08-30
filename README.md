@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Saahillia/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saahillia/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0594-longest-harmonious-subsequence](https://github.com/Saahillia/Leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Saahillia/Leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
