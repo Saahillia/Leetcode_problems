@@ -177,3 +177,85 @@ class Solution {
         return result;
     }
 }
+
+```
+## Line-by-Line Explanation
+
+### `int result = 0;`
+* **What it does:** Sets up a variable to hold the running answer.
+* **Why we need it:** We need somewhere to accumulate the value as we read each letter.
+* **Example:** Starts at `0` before processing `"AB"`.
+
+### `for (int i = 0; i < columnTitle.length(); i++)`
+* **What it does:** Walks through the string one character at a time, left to right.
+* **Why we need it:** The base-26 math requires processing digits in order (most significant first).
+* **Example:** For `"AB"`, loops through index `0` (`'A'`) then index `1` (`'B'`).
+
+### `int value = columnTitle.charAt(i) - 'A' + 1;`
+* **What it does:** Converts a letter to a number from 1 to 26.
+* **Why we need it:** Character subtraction in Java gives the alphabet position starting at 0 (`'A' - 'A' = 0`), so we add 1 to make $A=1$ instead of $A=0$.
+* **Example:** `'B' - 'A' + 1 = 1 + 1 = 2`.
+
+### `result = result * 26 + value;`
+* **What it does:** Shifts the current total up one base-26 place, then adds the new digit.
+* **Why we need it:** This is the core base-conversion step—same idea as `total = total * 10 + digit` for decimal numbers.
+* **Example:** If `result` was `1` (from `'A'`) and `value` is `2` (from `'B'`), new `result = 1 × 26 + 2 = 28`.
+
+### `return result;`
+* **What it does:** Sends back the final column number.
+* **Why we need it:** This is the answer the problem asks for.
+* **Example:** Returns `28` for `"AB"`.
+
+> 💡 **Beginner Note:** `charAt(i)` gets the character at position `i` in a string. Subtracting two `char` values in Java gives you an integer—the difference in their positions in the character set.
+
+---
+
+## Dry Run
+
+**Input:** `"AB"`
+
+| $i$ | Character | Value | Result |
+| :---: | :---: | :---: | :--- |
+| `0` | `'A'` | `1` | $0 \times 26 + 1 = 1$ |
+| `1` | `'B'` | `2` | $1 \times 26 + 2 = 28$ |
+
+**Output:** `28`
+
+---
+
+## Complexity Analysis
+
+* **Time Complexity:** $O(n)$, where $n$ is the string length—each character is visited exactly once.
+* **Space Complexity:** $O(1)$—only one integer variable is used regardless of input size.
+
+---
+
+## Edge Cases
+
+* **Single letter (`"A"`, `"Z"`):** Loop runs once, correctly returning `1` or `26`.
+* **Long strings (`"FXSHRXW"`—near max column, ~2 billion):** Fits in Java's signed 32-bit `int` since LeetCode's constraints keep the result within range.
+* **All same letter (`"AAAA"`):** Each `'A'` contributes value `1`, correctly compounding through multiplication.
+
+---
+
+## Key Takeaways
+
+* This is base-26 math with a twist: digits are 1–26, not 0–25, because there is no "zero" letter.
+* The `total = total * base + digit` pattern is the standard way to convert any string in a given base to a number, left to right.
+
+---
+
+## Similar Problems
+
+* **Excel Sheet Column Title** (the reverse: number $\to$ letters)
+* **Roman to Integer**
+* **String to Integer (atoi)**
+
+---
+
+## Interview Insights
+
+* Interviewers expect you to notice this is not standard base-26—spotting the "no zero digit" quirk shows strong attention to detail.
+* **Common follow-up:** *"Now do the reverse—given a number, produce the column title."* That direction is trickier because you have to adjust for the lack of a zero digit during division (typically handled via `(n - 1) % 26` and `(n - 1) / 26`).
+* **Common mistake:** Forgetting the `+ 1` offset and treating `'A'` as `0`, which fails on multi-letter inputs.
+* This pattern (custom base, non-standard digit range) also appears in bijective numeral systems and specific hashing schemes.
