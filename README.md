@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saahillia/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0171-excel-sheet-column-number](https://github.com/Saahillia/Leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [2427-number-of-common-factors](https://github.com/Saahillia/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Saahillia/Leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Saahillia/Leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
