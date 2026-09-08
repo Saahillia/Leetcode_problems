@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Saahillia/Leetcode_problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Saahillia/Leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Saahillia/Leetcode_problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Greedy
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Saahillia/Leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Saahillia/Leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -122,9 +124,18 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Saahillia/Leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Saahillia/Leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [1507-reformat-date](https://github.com/Saahillia/Leetcode_problems/tree/master/1507-reformat-date) |
+## Binary Search
+|  |
+| ------- |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
