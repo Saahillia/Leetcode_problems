@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Saahillia/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Saahillia/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saahillia/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0594-longest-harmonious-subsequence](https://github.com/Saahillia/Leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Saahillia/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Saahillia/Leetcode_problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
