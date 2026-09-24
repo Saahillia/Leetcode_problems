@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Saahillia/Leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saahillia/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Saahillia/Leetcode_problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1572-matrix-diagonal-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Saahillia/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Saahillia/Leetcode_problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Saahillia/Leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
@@ -144,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saahillia/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Saahillia/Leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
